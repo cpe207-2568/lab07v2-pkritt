@@ -1,13 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/lUAO1fCs)
+
 # Lab 07 : Registration Form
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:670610670
 
-ชื่อ-สกุล :
+ชื่อ-สกุล :นาย กฤตภาส เพชรานนท์
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-2568.github.io/lab07v2-pkritt/
 
 ---
 
